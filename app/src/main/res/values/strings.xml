@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator Salariu</string>
+    <string name="introduceti_salariul_brut">Introduceti salariul BRUT!</string>
+
+    <string name="button">Button</string>
+    <string name="calculeaza">Calculeaza</string>
+    <string name="_2000_ron">2000 RON</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="anul_2021">Anul 2021</string>
+    <string name="angajat_lei_euro">ANGAJAT Lei Euro</string>
+    <string name="n_asigurari_n_sociale_cas_25">\n Asigurari \n Sociale (CAS) 25%</string>
+    <string name="textview4">TextView</string>
+    <string name="asigurari_n_sociale_cas_25">Asigurari\n sociale (CAS) %25</string>
+    <string name="euro">Euro</string>
+    <string name="impozit_pe_nvenit_10">Impozit pe\nvenit 10%</string>
+    <string name="asigurari_nsociale_de_nsanatate_10_n_cass">Asigurari\nSociale de\nSanatate 10%\n(CASS)</string>
+    <string name="asigurari_nsociale_cas_25">Asigurari\nSociale (CAS) 25%</string>
+    <string name="sal">Sal</string>
+    <string name="angajat">ANGAJAT</string>
+    <string name="lei">Lei</string>
+    <string name="salariu_brut">Salariu Brut</string>
+    <string name="salariu_net">Salariu Net</string>
+
+</resources>
